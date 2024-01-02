@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jason-xuu
 - 👀 I’m interested in ... learning more about computers (coding in java, python, any language, or anything!)
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... really anything related to coding and computers!
 - 📫 How to reach me ... 
   email: jxu5041@gmail.com
