@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science @ University of Washington (Graduating March 2025)
+- 🎓 Master's in Bioinformatics @ Boston University
 - 🛠️ Building scalable platforms in AI, finance, and cloud ecosystems
 - 🌎 Creator of an interactive Windows XP–style portfolio
 - 🏢 Internships: OmniSynk AI, MBDA Federal Procurement Center
