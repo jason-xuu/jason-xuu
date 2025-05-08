@@ -14,23 +14,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jason-xuu&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason-xuu&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jason-xuu&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -47,14 +30,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jason-xuu&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
