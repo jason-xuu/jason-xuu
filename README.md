@@ -4,13 +4,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Master's in Bioinformatics @ Boston University
-- 🛠️ Building scalable platforms in AI, finance, and cloud ecosystems
-- 🌎 Creator of an interactive Windows XP–style portfolio
-- 🏢 Internships: OmniSynk AI, MBDA Federal Procurement Center
-- 🚀 Always learning. Always shipping.
+- Master's in Bioinformatics @ Boston University
+- Building scalable platforms in AI, finance, and cloud ecosystems
+- Creator of an interactive Windows XP–style portfolio
+- Internships: OmniSynk AI, MBDA Federal Procurement Center
+- Always learning. Always shipping.
 
 ---
 
